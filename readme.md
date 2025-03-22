@@ -12,3 +12,5 @@ Onde:
 - $R(t)$ = Probabilidade de operação sem falhas no tempo $t$
 - $\mathrm{MTBF}$ = tempo médio entre falhas
 - $t$ = Período de operação considerado em horas (Período de um ano considerado no exemplo)
+
+Portanto, no tempo 0 a confiabilidade é de 100%, pois o sistema inicializa funcionando perfeitamente e a medida que o tempo passa, a sua confiabilidade diminui exponencialmente.
