@@ -8,4 +8,7 @@ $$
 R(t) = e^{-t/\mathrm{MTBF}}
 $$
 
-
+Onde:
+- $R(t)$ = Probabilidade de operação sem falhas no tempo $t$
+- $\mathrm{MTBF}$ = tempo médio entre falhas
+- $t$ = Período de operação considerado em horas (Período de um ano considerado no exemplo)
