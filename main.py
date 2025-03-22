@@ -3,7 +3,7 @@ matplotlib.use('Agg')
 import numpy as np
 import matplotlib.pyplot as plt
 
-MTBF = 5000  # quantidade de horas
+MTBF = 8766  # quantidade de horas
 
 tempo = np.linspace(0, 15000, 100)
 
